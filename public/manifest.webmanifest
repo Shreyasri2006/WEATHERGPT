@@ -1,0 +1,9 @@
+{
+  "name": "WeatherGPT — Safety-First Weather Decision Copilot",
+  "short_name": "WeatherGPT",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "description": "SIH26068 conversational weather intelligence prototype"
+}
